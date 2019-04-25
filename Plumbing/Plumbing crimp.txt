@@ -1,0 +1,21 @@
+http://tus-ufh.com/
+
+MLCP
+
+WRAS - range of plumbling
+Gary
+https://www.underfloorheatingtradesupplies.co.uk/plumbing/pex-al-pex-multilayer-rifeng-pipe
+
+16,16,16 2
+25,16,16 6
+25,16,25 5
+25,25,16 2
+25,25,25 11
+25mm 50m
+16mm 100m
+
+
+
+
+
+
